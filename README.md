@@ -1,2 +1,0 @@
-# iSMineral
-Created with CodeSandbox

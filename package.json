@@ -1,0 +1,25 @@
+{
+  "name": "minui-sandbox",
+  "version": "1.0.0",
+  "description": "Bare minimum starting config to use Mineral UI components",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emotion/core": "10.0.10",
+    "@emotion/is-prop-valid": "0.7.3",
+    "@emotion/styled": "10.0.10",
+    "emotion-theming": "10.0.10",
+    "mineral-ui": "0.57.0",
+    "mineral-ui-icons": "0.5.0",
+    "react": "16.8.5",
+    "react-dom": "16.8.5",
+    "react-scripts": "2.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
